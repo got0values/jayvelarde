@@ -6,6 +6,9 @@
 <div id="container">
 
 <nav id="navbar">
+  <div id="jv">
+    Jason Velarde
+  </div>
   <ul>
     <li><a href="#projects" class="nav-list">Projects</a></li>
     <li><a href="#contact-section" class="nav-list">Contact</a></li>
@@ -13,22 +16,22 @@
 </nav>
 
 <section id="welcome-section">
-  <h1>Jay's Portfolio</h1>
-  <p class="workSans">full-stack Web developer</p>
+  <h1>JASON VELARDE</h1>
+  <p class="raleway">full-stack web developer</p>
 </section>
 <section class="projects">
 <section id="projects">
   <h2>My Projects</h2>
   <div id="projects-grid">
-    <a href="https://codepen.io/got0values/pen/WNGJwyV" targe=t"_blank" class="project-tile">
+    <a href="https://codepen.io/got0values/pen/WNGJwyV" target="_blank" class="project-tile">
       <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
       <p>Landing Page</p>
     </a>
-    <a href="https://codepen.io/got0values/pen/poEVNJm" targe=t"_blank" class="project-tile">
+    <a href="https://codepen.io/got0values/pen/poEVNJm" target="_blank" class="project-tile">
       <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
       <p>Tech Doc</p>
     </a>
-    <a href="https://codepen.io/got0values/pen/QWKmxYj" targe=t"_blank" class="project-tile">
+    <a href="https://codepen.io/got0values/pen/QWKmxYj" target="_blank" class="project-tile">
       <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
       <p>Survey</p>
     </a>
