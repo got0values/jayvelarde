@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <link rel="stylesheet" href="style.css">
+    <title>Jason Velarde</title>
   </head>
 <div id="container">
 
@@ -17,7 +18,7 @@
 
 <section id="welcome-section">
   <h1>JASON VELARDE</h1>
-  <p class="raleway">full-stack web developer</p>
+  <p class="raleway">web developer</p>
 </section>
 <section class="projects">
 <section id="projects">
@@ -27,17 +28,17 @@
       <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
       <p>Landing Page</p>
     </a>
-    <a href="https://codepen.io/got0values/pen/poEVNJm" target="_blank" class="project-tile">
-      <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
-      <p>Tech Doc</p>
+    <a href="https://jvreads.com" target="_blank" class="project-tile">
+      <img src="/images/jvreads.png" target="_blank" class="product-image">
+      <p>JVReads</p>
     </a>
-    <a href="https://codepen.io/got0values/pen/QWKmxYj" target="_blank" class="project-tile">
-      <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
-      <p>Survey</p>
+    <a href="https://stemcadia.com" target="_blank" class="project-tile">
+      <img src="images/stemcadia.png" target="_blank" class="product-image">
+      <p>STEMcadia</p>
     </a>
-    <a href="https://codepen.io/got0values/pen/QWKmprJ" target="_blank" class="project-tile">
-      <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
-      <p>Tribute Page</p>
+    <a href="https://childrens.freeportlibrary.info" target="_blank" class="project-tile">
+      <img src="images/fmlcr.png" target="_blank" class="product-image">
+      <p>Freeport Memorial Library<br>Children's Room</p>
     </a>
   </div>
 </section>
