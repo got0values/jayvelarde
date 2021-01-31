@@ -18,15 +18,15 @@
 
 <section id="welcome-section">
   <h1>JASON VELARDE</h1>
-  <p class="raleway">web developer</p>
+  <p class="dancingscript">web developer</p>
 </section>
 <section class="projects">
 <section id="projects">
   <h2>My Projects</h2>
   <div id="projects-grid">
-    <a href="https://codepen.io/got0values/pen/WNGJwyV" target="_blank" class="project-tile">
-      <img src="http://placekitten.com/350/300" target="_blank" class="product-image">
-      <p>Landing Page</p>
+    <a href="https://jayvel.com" target="_blank" class="project-tile">
+      <img src="images/jayvel.png" target="_blank" class="product-image">
+      <p>JayVel Photo</p>
     </a>
     <a href="https://jvreads.com" target="_blank" class="project-tile">
       <img src="/images/jvreads.png" target="_blank" class="product-image">
@@ -38,7 +38,7 @@
     </a>
     <a href="https://childrens.freeportlibrary.info" target="_blank" class="project-tile">
       <img src="images/fmlcr.png" target="_blank" class="product-image">
-      <p>Freeport Memorial Library<br>Children's Room</p>
+      <p style="font-size: 14px;">Freeport Memorial Library<br>Children's Room</p>
     </a>
   </div>
 </section>
