@@ -59,24 +59,12 @@
             <div class="projects-row">
                 <div class="project">                
                     <div class="project-img">            
-                        <a href="/lettercount/index.php" target="_blank"><img src="/images/lettercount.png" class="from-left show-on-scroll"></a>
+                        <a href="/lettercount/index.php" target="_blank"><img src="/images/letterswords2.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="/lettercount/index.php" target="_blank"><h3 class="from-right show-on-scroll">Word/Letter Count</h3></a>
                         <a href="https://github.com/got0values/lbtq" target="_blank"><button>View Code</button></a>
                         <p class="appear show-on-scroll ln-ht">A simple app that gives you the number of words with X amount of letters based on the user's input.<br><br><b>Technologies used:</b><br><i>HTML, CSS, PHP, JavaScript</i></p>
-                    </div>
-                </div>                
-            </div>
-
-            <div class="projects-row">
-                <div class="project">                
-                    <div class="project-img">            
-                        <a href="https://jayvelarde.com/scorekeeper/index.html" target="_blank"><img src="/images/scorekeeper.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://jvreads.com/" target="_blank"><h3 class="from-right show-on-scroll">Scorekeeper</h3></a>
-                        <p class="appear show-on-scroll ln-ht">Scorekeeper keeps your score.</p>
                     </div>
                 </div>                
             </div>
@@ -123,8 +111,8 @@
     
         <section class="section" id="contact">
             <h2>Contact</h2>
-            <!-- <i class="far fa-envelope"></i> -->
-            <a href="https://github.com/got0values" id="profile-link" target="_blank">GitHub</a>
+            <p><i class="fa far fa-envelope"></i> jayvelphoto@gmail.com</p>
+            <p><i class="fa fab fa-github fa-2x"></i> <a href="https://github.com/got0values" id="profile-link" target="_blank">GitHub</a></p>
             <div id="bottom-joke">"Where do sheep go to get their hair cut? The baa-baa shop."</div>
         </section>
     

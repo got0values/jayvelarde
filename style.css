@@ -458,11 +458,19 @@ p {
     padding: 15px;
 }
 
-#contact p{
+#contact p:nth-of-type(1){
     font-family: 'Poppins';
     color: white;
     font-weight: 900;
-    transform: skewY(1deg);  
+    transform: skewY(1deg);
+    margin-bottom: 20px;
+}
+
+#contact p:nth-of-type(2){
+    font-family: 'Poppins';
+    color: white;
+    font-weight: 900;
+    transform: skewY(1deg);
 }
 
 #contact a{
@@ -479,13 +487,12 @@ p {
 }
 
 #bottom-joke {
-    /* position: absolute; */
     bottom: 0;
     width: 100%;
     text-align: center;
     font-style: italic;
     color: white;
-    padding-top: 60px;    
+    margin-top: 40px;    
     background: 0;
-    transform: skewY(1deg);
+    z-index: 10;
 }

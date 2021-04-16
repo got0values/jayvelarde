@@ -5,7 +5,7 @@
     <title>Word/Letter Count</title>
 </head>
 <body>
-<nav>
+<nav class="glass2">
     <div id="lbtq">
         Word/Letter Count
     </div>
