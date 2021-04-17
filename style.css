@@ -55,6 +55,10 @@ table {
 
 /* ******************************CSS RESET*************************************************** */
 
+:root {
+    scroll-padding-top: 3em;
+    scroll-behavior: smooth;
+}
 
 body {
     font-family: 'Poppins', cursive;
@@ -310,41 +314,32 @@ p {
     box-shadow: -1px 10px 10px -4px grey;
 }
 
-/* #jvcontainer {
-  width: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-
 #jvwrap {
-  transform-style: preserve-3d;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  /* min-height: 40%; */
-  width: 60%;
-  /* border-radius: 30px; */
-  padding: 5rem 0;
-  /* transform: skewY(1deg); */
-  /* box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2); */
+    transform-style: preserve-3d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 5rem 0;
 }
 
 #jvh1 {
-  margin-bottom: 0px;
-  transform: skewY(1deg);
-  z-index: 2;
-  transition: all 1s ease-out;
+    text-align: center;
+    margin-bottom: 0px;
+    transform: skewY(1deg);
+    min-width: 100%;
+    z-index: 2;
+    transition: all 1s ease-out;
 }
 
 #webdev {
-  color: rgb(188 128 255);
-  margin-top: -25px;
-  font-weight: 500px;
-  z-index: 3;
-  transition: all 1s ease-out;
-  transform: skewY(1deg);
+    color: rgb(188 128 255);
+    margin-top: -25px;
+    font-weight: 500px;
+    z-index: 3;
+    transition: all 1s ease-out;
+    transform: skewY(1deg);
 }
 
 /*******************************WELCOME SECTION************************ */
