@@ -23,8 +23,10 @@
     <div id="container">
 
         <section id="welcome-section">
-            <h1>JASON VELARDE</h1>
-            <h2 class="dancingscript appear show-on-scroll is-visible">web developer</h2>
+            <div id="jvwrap">
+                <h1 id="jvh1">JASON VELARDE</h1>
+                <h2 id= "webdev" class="dancingscript appear show-on-scroll is-visible">web developer</h2>
+            </div>
         </section>
 
         <section class="section" id="projects">
@@ -118,6 +120,7 @@
     
     </div>
 <script src="jv.js"></script>
+<script src="3d.js"></script>
 
 </body>
 </html>
