@@ -38,7 +38,7 @@
                     <div class="project-des">
                         <a href="https://jvreads.com/" target="_blank"><h3 class="from-right show-on-scroll">JV Reads</h3></a>
                         <a href="https://github.com/got0values/jvreads" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Python, Flask, JavaScript</i></p>
+                        <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Python, Flask, JavaScript</i></p>
                     </div>
                 </div>                
             </div>
@@ -46,12 +46,12 @@
             <div class="projects-row">
                 <div class="project">                
                     <div class="project-img">            
-                        <a href="/compsignin/index.php" target="_blank"><img src="/images/compsignin.png" class="from-left show-on-scroll"></a>
+                        <a href="https://latestdigitalreviews.com/compsignin" target="_blank"><img src="/images/compsignin.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
-                        <a href="/compsignin" target="_blank"><h3 class="from-right show-on-scroll">Public Computer Sign In (Demo)</h3></a>
+                        <a href="https://latestdigitalreviews.com/compsignin" target="_blank"><h3 class="from-right show-on-scroll">Public Computer Sign In (Demo)</h3></a>
                         <a href="https://github.com/got0values/computersignin" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">An app developed for libraries to sign patrons up for public computers. It includes a countdown, banned list, and history.<br><br><b>Technologies used:</b><br><i>HTML, CSS, JavaScript, PHP, SQLite</i></p>
+                        <p class="appear show-on-scroll ln-ht">An app developed for libraries to sign patrons up for public computers. It includes a countdown, banned list, and history.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, JavaScript, PHP, SQLite</i></p>
                     </div>
                 </div>                
             </div>
@@ -59,7 +59,7 @@
             <div class="projects-row">
                 <div class="project">                
                     <div class="project-img">            
-                        <a href="/lettercount/index.php" target="_blank"><img src="/images/letterswords2.png" class="from-left show-on-scroll"></a>
+                        <a href="/lettercount/index.php" target="_blank"><img src="/images/lettercount.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="/lettercount/index.php" target="_blank"><h3 class="from-right show-on-scroll">Word/Letter Count</h3></a>
@@ -102,7 +102,7 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des">                
-                    <p class="appear show-on-scroll ln-ht">Started dabling with HTML in 1998. Fell in love with coding in 2017 in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Became serious about studying coding during the 2020 quarantine. 
+                    <p class="appear show-on-scroll ln-ht">Started dabbling with HTML in 1998. Fell in love with coding in 2017 in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Became serious about studying coding during the 2020 quarantine. 
                     </p>
                     <p class="ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, Node JS, Python, Flask, PHP, Lightroom, Photoshop, GIMP</i></p>
                 </div>                
@@ -113,7 +113,7 @@
             <h2>Contact</h2>
             <p><i class="fa far fa-envelope"></i> jayvelphoto@gmail.com</p>
             <p><i class="fa fab fa-github fa-2x"></i> <a href="https://github.com/got0values" id="profile-link" target="_blank">GitHub</a></p>
-            <div id="bottom-joke">"Where do sheep go to get their hair cut? The baa-baa shop."</div>
+            <div id="bottom-joke"></div>
         </section>
     
     </div>

@@ -1,12 +1,17 @@
-<?php
-    include_once 'header.php';
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../lettercount/style.css">
+    <title>Word/Letter Count</title>
+</head>
+<body>
+<h1>Word/Letter Count</h1>
 
 <script type=text/javascript src='../lettercount/lbtletters.js'></script>
-    <section class="glass" id='mainflex'>
+    <section id='mainflex'>
         <div id='leftflex'>
             <form onsubmit='addpar(); return false;'>
-                <textarea class="glass3" name='text' id='text' rows='40' cols='100' placeholder="Type in your input here. Then, click on Submit."></textarea>
+                <textarea name='text' id='text' rows='40' cols='100' placeholder="Type in your input here. Then, click on Submit."></textarea>
                 <br>
                 <button class='button1' id='submit' name='submit' type='submit' value='submit' disabled>Submit</button>
             </form>
@@ -14,7 +19,7 @@
 
         <div id='rightflex'>
             <h2>Results:</h2>
-            <div class="glass2" id='letterswords'></div>
+            <div id='letterswords'></div>
             <form onsubmit='clearpar(); return false;'>
                 <button class='button2' id='submit2' name='submit2' type='submit' value='Clear'>Clear</button>
             </form>
@@ -32,7 +37,3 @@
             }
         }
     </script>
-
-<?php
-    include_once 'footer.php';
-?>
