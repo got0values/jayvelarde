@@ -35,10 +35,31 @@
             <div class="projects-row">
                 <div class="project">                
                     <div class="project-img">            
-                        <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreads.png" class="from-left show-on-scroll"></a>
+                        <a href="https://garagesalesny.com/" target="_blank"><img src="/images/garagesalesnyHome.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://garagesalesny.com/" target="_blank"><h3 class="from-right show-on-scroll">GarageSalesNY</h3></a>
+                        <div class="mb-3">
+                            <p>u/n: <i>DEMO</i></p>
+                            <p>p/w: <i>DEMOPW</i></p>
+                        </div>                        
+                        <a href="https://github.com/got0values/garagesalesny" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">A web app for users to find garage sales in New York.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, NodeJS, MongoDB, Google Maps API, Google Geocoding API</i></p>
+                    </div>
+                </div>                
+            </div>
+            
+            <div class="projects-row">
+                <div class="project">                
+                    <div class="project-img">            
+                        <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreadsHome.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="https://jvreads.com/" target="_blank"><h3 class="from-right show-on-scroll">JV Reads</h3></a>
+                        <div class="mb-3">
+                            <p>u/n: <i>DEMO</i></p>
+                            <p>p/w: <i>DEMOPW</i></p>
+                        </div>                        
                         <a href="https://github.com/got0values/jvreads" target="_blank"><button>View Code</button></a>
                         <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Python, Flask, JavaScript</i></p>
                     </div>
@@ -65,7 +86,7 @@
                     </div>
                     <div class="project-des">
                         <a href="/lettercount/index.php" target="_blank"><h3 class="from-right show-on-scroll">Word/Letter Count</h3></a>
-                        <a href="https://github.com/got0values/lbtq" target="_blank"><button>View Code</button></a>
+                        <a href="https://github.com/got0values/wordlettercount" target="_blank"><button>View Code</button></a>
                         <p class="appear show-on-scroll ln-ht">A simple app that gives you the number of words with X amount of letters based on the user's input.<br><br><b>Technologies used:</b><br><i>HTML, CSS, PHP, JavaScript</i></p>
                     </div>
                 </div>                
