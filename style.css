@@ -62,7 +62,7 @@ table {
 
 body {
     font-family: 'Poppins', cursive;
-    background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url("https://images.unsplash.com/photo-1616160945551-1ae7b9c4c397?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1381&q=80");
+    /* background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url("https://images.unsplash.com/photo-1616160945551-1ae7b9c4c397?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1381&q=80"); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -168,20 +168,26 @@ button:hover {
 
 .project {
     display: flex;
-    width: 85%;
-    min-height: 500px;
+    width: 65%;
+    min-height: 350px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 25px;
     padding-bottom: 25px;
     background: rgb(1,0,13);
     background: linear-gradient(90deg, rgba(1,0,13,1) 0%, rgba(32,16,56,1) 56%, rgba(8,1,37,1) 100%);
-    border-radius: 1.5%;
+    border-radius: 25px;
     box-shadow: 10px 10px 15px grey;
     transition: transform .5s;
     align-content: center;
     flex-wrap: wrap;
 }
+
+@media only screen and (max-width: 1050px) {
+    .project {
+      padding-left: 35px;
+    }
+  }
 
 .project:hover {
     transform: scale(1.015);
@@ -255,7 +261,7 @@ p {
     justify-content: flex-start;
     margin-top: 0;
     position: fixed;
-    height: 5rem;
+    height: 3rem;
     width: 100%;
     align-items: center;
     background: rgb(1,0,13);
@@ -265,15 +271,21 @@ p {
 }
 
 #jv {
-    font-size: 2em;
+    font-size: 1.7em;
     padding: 0 15px;
     color: white;
+    transition: 1s;
+}
+
+#jv:hover {
+    transform: scale(1.1);
+    color: orange;
 }
 
 #navbar ul {
     display: flex;
     flex-direction: row;
-    font-size: 1.5em;
+    font-size: 1.1em;
     list-style-type: none;
     color: white;
 }
@@ -482,7 +494,7 @@ p {
     font-family: 'Poppins';
     color: white;
     font-weight: 900;
-    transform: skewY(1deg);
+    transform: skewY(0deg);
     margin-bottom: 20px;
 }
 
@@ -490,7 +502,7 @@ p {
     font-family: 'Poppins';
     color: white;
     font-weight: 900;
-    transform: skewY(1deg);
+    transform: skewY(0deg);
 }
 
 #contact a{
@@ -498,7 +510,7 @@ p {
     color: white;
     font-weight: 900;
     font-size: 1.5rem;
-    transform: skewY(1deg);
+    transform: skewY(0deg);
 }
 
 #contact a:hover {
