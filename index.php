@@ -32,8 +32,8 @@
         <section class="section" id="projects">
             <h2>My Projects</h2>
 
-            <div class="projects-row">
-                <div class="project">                
+            <div class="projects-row row">
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://garagesalesny.com/" target="_blank"><img src="/images/garagesalesnyHome.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -51,10 +51,8 @@
                         <p class="appear show-on-scroll ln-ht">A web app for users to find garage sales in New York.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, NodeJS, MongoDB, Google Maps API, Google Geocoding API</i></p>
                     </div>
                 </div>                
-            </div>
-            
-            <div class="projects-row">
-                <div class="project">                
+
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://mammoth-giant.netlify.app/" target="_blank"><img src="/images/mammothgianthome.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -70,8 +68,8 @@
                 </div>                
             </div>
             
-            <div class="projects-row">
-                <div class="project">                
+            <div class="projects-row row">
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreadsHome.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -89,10 +87,8 @@
                         <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Python, Flask, JavaScript</i></p>
                     </div>
                 </div>                
-            </div>
 
-            <div class="projects-row">
-                <div class="project">                
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://books-db-search.netlify.app/" target="_blank"><img src="/images/books-db.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -108,8 +104,8 @@
                 </div>                
             </div>
 
-            <div class="projects-row">
-                <div class="project">                
+            <div class="projects-row row">
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://latestdigitalreviews.com/compsignin" target="_blank"><img src="/images/compsignin.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -123,10 +119,8 @@
                         <p class="appear show-on-scroll ln-ht">An app developed for libraries to sign patrons up for public computers. It includes a countdown, banned list, and history.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, JavaScript, PHP, SQLite</i></p>
                     </div>
                 </div>                
-            </div>
 
-            <div class="projects-row">
-                <div class="project">                
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://jayvel-photo-development-store.myshopify.com/" target="_blank"><img src="/images/jayvel-photo-development-store.myshopify.com_.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -141,8 +135,8 @@
                 </div>                
             </div>
 
-            <div class="projects-row">
-                <div class="project">                
+            <div class="projects-row row">
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://stemcadia.com/" target="_blank"><img src="/images/stemcadia.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -155,10 +149,8 @@
                         <p class="appear show-on-scroll ln-ht">An informational website on all things Science, Technology, Engineering, and Math.<br><br>Technologies used:<br><i>WordPress, HTML, CSS, PHP, JavaScript</i></p>
                     </div>
                 </div>                
-            </div>
-            
-            <div class="projects-row">
-                <div class="project">                
+
+                <div class="project col">                
                     <div class="project-img">            
                         <a href="https://jayvel.com/" target="_blank"><img src="/images/jayvel.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -182,7 +174,7 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des">                
-                    <p class="appear show-on-scroll ln-ht">Started dabbling with HTML in 1998. Fell in love with coding in 2017 in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Became serious about studying coding during the 2020 quarantine. 
+                    <p class="appear show-on-scroll ln-ht">I Fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Became serious about studying coding during the 2020 quarantine. 
                     </p>
                     <p class="ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, Node JS, Python, Flask, PHP, Lightroom, Photoshop, GIMP</i></p>
                 </div>                
