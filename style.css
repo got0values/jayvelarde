@@ -356,7 +356,8 @@ p {
 #projects {
     display: flex;
     flex-direction: column;
-    background: rgb(235, 235, 235);
+    background: #bfbfbf;    
+    /* background: rgb(235, 235, 235); */
     color: black;
     align-items: center;
     width: 100%;

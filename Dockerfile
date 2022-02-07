@@ -1,13 +1,16 @@
 # Use the official PHP image.
 # https://hub.docker.com/_/php
 # FROM php:7.4-apache
-FROM php:7-apache-buster
+FROM php:7.2-apache
 
 RUN apt-get update -qqy
 
 # Configure PHP for Cloud Run.
 # Precompile PHP code with opcache.
 RUN docker-php-ext-install -j "$(nproc)" opcache
+
+RUN docker-php-ext-install pdo
+
 RUN set -ex; \
   { \
     echo "; Cloud Run enforces memory & timeouts"; \
@@ -26,6 +29,8 @@ RUN set -ex; \
 # Copy in custom code from the host machine.
 WORKDIR /var/www/html
 COPY . ./
+
+RUN chmod -R 777 /var
 
 # Use the PORT environment variable in Apache configuration files.
 # https://cloud.google.com/run/docs/reference/container-contract#port

@@ -69,6 +69,21 @@
 
                 <div class="project col-lg">                
                     <div class="project-img">            
+                        <a href="https://knaptime.com/" target="_blank"><img src="/images/knaptimescreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://knaptime.com/" target="_blank">
+                            <h3 class="from-right show-on-scroll">Knaptime 
+                            <img style="filter: invert(1); height: 16px;" src="/images/pngegg.png">
+                            </h3>
+                        </a>                    
+                        <a href="https://github.com/got0values/knaptime" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">A demo eCommerce site made with Magento.<br><br><b>Technologies used:</b><br><i>HTML, CSS, PHP, Javascript, Magento, Linux, GCP Compute Engine</i></p>
+                    </div>
+                </div>
+
+                <div class="project col-lg">                
+                    <div class="project-img">            
                         <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreadsHome.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
@@ -193,9 +208,9 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des" class="col">                
-                    <p class="appear show-on-scroll ln-ht">I Fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
+                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
                     </p>
-                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Python, Flask, PHP, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
+                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Python, Flask, PHP, Magento, WordPress, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
                 </div>             
             </div>
         </section>
