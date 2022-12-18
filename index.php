@@ -210,9 +210,9 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des" class="align-items-center">                
-                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
+                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to starting a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
                     </p>
-                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Python, Flask, PHP, Magento, WordPress, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
+                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Chakra UI, MaterialUI, Python, Flask, FastAPI, PHP, Magento, WordPress, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
                 </div>             
             </div>
         </section>
