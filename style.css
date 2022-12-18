@@ -361,8 +361,8 @@ p {
     color: black;
     align-items: center;
     width: 100%;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #projects h2 {
@@ -387,6 +387,8 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    height: 100vh;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 80px;
@@ -420,25 +422,17 @@ p {
 #me-des {
     flex-basis: 60%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: auto;
     margin-bottom: auto;
 }
 
-#me-des p:nth-of-type(1) {
-    text-align: left;
-    padding-top: 10px;
-    margin-top: 5px;
-    width: 50%;
-}
-
-#me-des p:nth-of-type(2) {
+/* #me-des p {
     text-align: left;
     padding-top: 10px;
     margin-top: 5px;
     margin-left: 15px;
-    width: 50%;
-}
+} */
 
 
 /*******************************ABOUT ME************************ */

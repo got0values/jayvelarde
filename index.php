@@ -89,20 +89,7 @@
                     </div>
                 </div>
 
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="https://knaptime.com/" target="_blank"><img src="/images/knaptimescreenshot.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://knaptime.com/" target="_blank">
-                            <h3 class="from-right show-on-scroll">
-                              Knaptime <i class="fa-brands fa-magento"></i>
-                            </h3>
-                        </a>                    
-                        <a href="https://github.com/got0values/knaptime" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">A demo eCommerce site made with Magento.<br><br><b>Technologies used:</b><br><i>HTML, CSS, PHP, Javascript, Magento, Linux, GCP Compute Engine</i></p>
-                    </div>
-                </div>
+                
 
                              
             </div>
@@ -163,6 +150,10 @@
                     </div>
                 </div>
 
+                
+            </div>
+
+            <div class="projects-row">
                 <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://jayvel-photo-development-store.myshopify.com/" target="_blank"><img src="/images/jayvel-photo-development-store.myshopify.com_.png" class="from-left show-on-scroll"></a>
@@ -180,36 +171,19 @@
                         <p class="appear show-on-scroll ln-ht">A photography-themed Shopify theme.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Liquid, JavaScript</i></p>
                     </div>
                 </div> 
-            </div>
-
-            <div class="projects-row">               
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="/signin/index.php" target="_blank"><img src="/images/signin.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="/signin/index.php" target="_blank">
-                            <h3 class="from-right show-on-scroll">Library Room Sign In (Demo) 
-                            <i class="fa-brands fa-php"></i>
-                            </h3>
-                        </a>
-                        <a href="https://github.com/got0values/librarysignin" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">An app developed for libraries to sign patrons up for public computers. It includes a countdown, banned list, and history.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, JavaScript, PHP, SQLite</i></p>
-                    </div>
-                </div> 
 
                 <div class="project col-lg">                
                     <div class="project-img">            
-                        <a href="/compsignin/index.php" target="_blank"><img src="/images/compsignin.png" class="from-left show-on-scroll"></a>
+                        <a href="https://github.com/got0values/knaptime" target="_blank"><img src="/images/knaptimescreenshot.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
-                        <a href="/compsignin/index.php" target="_blank">
-                            <h3 class="from-right show-on-scroll">Public Computer Sign In (Demo) 
-                            <i class="fa-brands fa-php"></i>
+                        <a href="https://github.com/got0values/knaptime" target="_blank">
+                            <h3 class="from-right show-on-scroll">
+                              Knaptime <i class="fa-brands fa-magento"></i>
                             </h3>
-                        </a>
-                        <a href="https://github.com/got0values/computersignin" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">An app developed for libraries to sign patrons up for public computers. It includes a countdown, banned list, and history.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, JavaScript, PHP, SQLite</i></p>
+                        </a>                    
+                        <a href="https://github.com/got0values/knaptime" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">A demo eCommerce site made with Magento.<br><br><b>Technologies used:</b><br><i>HTML, CSS, PHP, Javascript, Magento, Linux, GCP Compute Engine</i></p>
                     </div>
                 </div>
 
@@ -231,11 +205,11 @@
 
         <section class="section" id="me">
             <h2 class="from-right show-on-scroll">About Me</h2>
-            <div id="me-row" class="row justify-content-center">
-                <div class="col">            
+            <div id="me-row" class="d-flex align-items-center justify-content-center flex-wrap">
+                <div class="d-flex align-items-end w-50 py-5">            
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
-                <div id="me-des" class="col">                
+                <div id="me-des" class="align-items-center">                
                     <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
                     </p>
                     <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Python, Flask, PHP, Magento, WordPress, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
