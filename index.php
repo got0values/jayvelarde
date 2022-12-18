@@ -25,7 +25,7 @@
         <section id="welcome-section">
             <div id="jvwrap">
                 <h1 id="jvh1">JASON VELARDE</h1>
-                <h2 id= "webdev" class="dancingscript appear show-on-scroll is-visible">full-stack developer</h2>
+                <h2 id= "webdev" class="dancingscript appear show-on-scroll is-visible">web developer</h2>
             </div>
         </section>
 

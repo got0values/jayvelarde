@@ -22,6 +22,6 @@ jvwrap.addEventListener("mouseleave", (e) => {
     jvwrap.style.transition = "all 0.5s ease";
     jvwrap.style.boxShadow = "none";
     jvwrap.style.background = "none"; 
-    jvh1.style.transform = "translateZ(0px) rotateZ(1deg)";
+    jvh1.style.transform = "translateZ(0px) rotateZ(0deg)";
     webdev.style.transform = "translateZ(0px) translateY(0px) rotateZ(1deg)";
 });
