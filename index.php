@@ -38,12 +38,31 @@
             <div class="projects-row">
                 <div class="project col-lg">                
                     <div class="project-img">            
+                        <a href="https://app.curatorkit.com.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://app.curatorkit.com/" target="_blank">
+                            <h3 class="from-right show-on-scroll">
+                            CuratorKit <i class="fa-brands fa-react"></i> <i class="fa-brands fa-python"></i>
+                            </h3>
+                        </a>
+                        <div class="mb-3">
+                            <p>u/n: <i>demo1@demo.com</i></p>
+                            <p>p/w: <i>abcd1234</i></p>
+                        </div>                        
+                        <a href="https://curatorkit.com" target="_blank"><button>View Landing Page</button></a>
+                        <p class="appear show-on-scroll ln-ht">Made for libraries by an ex-librarian. Curatorkit is a set of tools made to provide a more efficient work flow. It public facing pages are developed with an accessibility-first design.<br><br><b>Technologies used:</b><br><i>React, Chakra UI, FastAPI</i></p>
+                    </div>
+                </div>   
+
+                <div class="project col-lg">                
+                    <div class="project-img">            
                         <a href="https://garagesalesny.com/" target="_blank"><img src="/images/garagesalesnyHome.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="https://garagesalesny.com/" target="_blank">
                             <h3 class="from-right show-on-scroll">GarageSalesNY 
-                                <img style="filter: invert(1); height: 16px;" src="/images/nodejs.png">
+                            <i class="fa-brands fa-node"></i>
                             </h3>
                         </a>
                         <div class="mb-3">
@@ -62,7 +81,7 @@
                     <div class="project-des">
                         <a href="https://mammoth-giant.netlify.app/" target="_blank">
                             <h3 class="from-right show-on-scroll">Mammoth Giant 
-                            <img style="filter: invert(1); height: 16px;" src="/images/atom.png">
+                            <i class="fa-brands fa-react"></i>
                             </h3>
                         </a>                    
                         <a href="https://github.com/got0values/mammoth-giant" target="_blank"><button>View Code</button></a>
@@ -85,6 +104,10 @@
                     </div>
                 </div>
 
+                             
+            </div>
+            
+            <div class="projects-row">
                 <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreadsHome.png" class="from-left show-on-scroll"></a>
@@ -102,10 +125,8 @@
                         <a href="https://github.com/got0values/jvreads" target="_blank"><button>View Code</button></a>
                         <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Python, Flask, JavaScript</i></p>
                     </div>
-                </div>                
-            </div>
-            
-            <div class="projects-row">
+                </div>   
+
                 <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://mybookshelfjv.netlify.app/" target="_blank"><img src="/images/mybookshelf.png" class="from-left show-on-scroll"></a>
@@ -113,8 +134,8 @@
                     <div class="project-des">
                         <a href="https://mybookshelfjv.netlify.app/" target="_blank">
                             <h3 class="from-right show-on-scroll">My Bookshelf 
-                            <img style="filter: invert(1); height: 16px;" src="/images/atom.png">
-                            <img style="filter: invert(1); height: 16px;" src="/images/nodejs.png">
+                            <i class="fa-brands fa-react"></i> 
+                            <i class="fa-brands fa-node"></i>
                             </h3>
                         </a>
                         <div class="mb-3">
@@ -134,7 +155,7 @@
                     <div class="project-des">
                         <a href="https://books-db-search.netlify.app/" target="_blank">
                             <h3 class="from-right show-on-scroll">Books DB 
-                            <img style="filter: invert(1); height: 16px;" src="/images/atom.png">
+                            <i class="fa-brands fa-react"></i>
                             </h3>
                         </a>                      
                         <a href="https://github.com/got0values/books-db" target="_blank"><button>View Code</button></a>
@@ -169,7 +190,7 @@
                     <div class="project-des">
                         <a href="/signin/index.php" target="_blank">
                             <h3 class="from-right show-on-scroll">Library Room Sign In (Demo) 
-                            <img style="filter: invert(1); height: 18px;" src="/images/php-document.png">
+                            <i class="fa-brands fa-php"></i>
                             </h3>
                         </a>
                         <a href="https://github.com/got0values/librarysignin" target="_blank"><button>View Code</button></a>
@@ -184,7 +205,7 @@
                     <div class="project-des">
                         <a href="/compsignin/index.php" target="_blank">
                             <h3 class="from-right show-on-scroll">Public Computer Sign In (Demo) 
-                            <img style="filter: invert(1); height: 18px;" src="/images/php-document.png">
+                            <i class="fa-brands fa-php"></i>
                             </h3>
                         </a>
                         <a href="https://github.com/got0values/computersignin" target="_blank"><button>View Code</button></a>
@@ -199,7 +220,7 @@
                     <div class="project-des">
                         <a href="https://stemcadia.com/" target="_blank">
                             <h3 class="from-right show-on-scroll">STEMcadia 
-                            <img style="filter: invert(1); height: 16px;" src="/images/wordpress.png">
+                            <i class="fa-brands fa-wordpress"></i>
                             </h3>
                         </a>
                         <p class="appear show-on-scroll ln-ht">An informational website on all things Science, Technology, Engineering, and Math.<br><br>Technologies used:<br><i>WordPress, HTML, CSS, PHP, JavaScript</i></p>
