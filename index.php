@@ -3,7 +3,10 @@
     <head>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">  
         <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+        <link rel="stylesheet" href="/fontawesome/css/fontawesome.css">
+        <link rel="stylesheet" href="/fontawesome/css/brands.css">
+        <link rel="stylesheet" href="/fontawesome/css/solid.css">
         <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <title>Jason Velarde</title>
     </head>
@@ -73,8 +76,8 @@
                     </div>
                     <div class="project-des">
                         <a href="https://knaptime.com/" target="_blank">
-                            <h3 class="from-right show-on-scroll">Knaptime 
-                            <img style="filter: invert(1); height: 16px;" src="/images/pngegg.png">
+                            <h3 class="from-right show-on-scroll">
+                              Knaptime <i class="fa-brands fa-magento"></i>
                             </h3>
                         </a>                    
                         <a href="https://github.com/got0values/knaptime" target="_blank"><button>View Code</button></a>
@@ -144,7 +147,11 @@
                         <a href="https://jayvel-photo-development-store.myshopify.com/" target="_blank"><img src="/images/jayvel-photo-development-store.myshopify.com_.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
-                        <a href="https://jayvel-photo-development-store.myshopify.com/" target="_blank"><h3 class="from-right show-on-scroll">JVPhoto Shopify Theme</h3></a>
+                        <a href="https://jayvel-photo-development-store.myshopify.com/" target="_blank">
+                          <h3 class="from-right show-on-scroll">
+                            JVPhoto Shopify Theme <i class="fa-brands fa-shopify"></i>
+                          </h3>
+                        </a>
                         <div class="mb-3">
                             <p>p/w: <i>DEMOPW</i></p>
                         </div>
