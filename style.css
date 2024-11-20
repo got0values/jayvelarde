@@ -129,7 +129,7 @@ button:hover {
   transform: translateX(0px);
 }
 
-.from-right {
+/* .from-right {
     transform: translateX(5em);
     opacity: 0;
     transition: transform .7s cubic-bezier(0.1, 0.27, 0, 1.63) .2s,
@@ -140,7 +140,7 @@ button:hover {
 .from-right.is-visible {
   opacity: 1;
   transform: translateX(0px);
-}
+} */
 
 .appear {
     opacity: 0;
@@ -166,6 +166,12 @@ button:hover {
     width: 80%;
 }
 
+@media only screen and (max-width: 1050px) {
+  .projects-row {
+    width: 100%;
+  }
+}
+
 .project {
     width: 80%;
     min-height: 350px;
@@ -175,7 +181,7 @@ button:hover {
     background: #212529;
     border-radius: 25px;
     transition: transform .5s;
-    align-content: center;
+    /* align-content: center; */
 }
 
 /* @media only screen and (max-width: 1050px) {
@@ -196,15 +202,19 @@ button:hover {
     justify-content: center;
 }
 
+.project-img a {
+  max-width: 90%;
+}
+
 .project-img img {
     width: 100%;
     height: 300px;
     object-fit: cover;
     object-position: 50% 50%;
     transition: transform .5s, box-shadow .5s;
-    border-radius: 35px 35px 35px 35px;
-    padding-left: 15px;
-    padding-right: 15px;
+    border-radius: 20px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
 }
 
 .project-des {
@@ -303,6 +313,12 @@ p {
   color: orange;
 }
 
+@media only screen and (max-width: 800px) {
+  #navbar ul {
+    display: none;
+  }
+}
+
 /*******************************NAVBAR************************ */
 
 /*******************************WELCOME SECTION************************ */
@@ -374,9 +390,9 @@ p {
     margin-bottom: 15px;
 }
 
-#projects p {
+/* #projects p {
     padding-right: 90px;
-}
+} */
 
 
 /*******************************PROJECTS************************ */

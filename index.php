@@ -7,7 +7,6 @@
         <link rel="stylesheet" href="/fontawesome/css/fontawesome.css">
         <link rel="stylesheet" href="/fontawesome/css/brands.css">
         <link rel="stylesheet" href="/fontawesome/css/solid.css">
-        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <title>Jason Velarde</title>
     </head>
 
@@ -36,6 +35,27 @@
             <h2>My Projects</h2>
 
             <div class="projects-row">
+
+            <div class="project col-lg">                
+                    <div class="project-img">            
+                        <a href="https://app.bookchatnoir.com/" target="_blank"><img src="/images/bookchatnoirscreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://bookchatnoir.com/" target="_blank">
+                            <h3 class="from-right show-on-scroll">BookChatNoir
+                            <i class="fa-brands fa-react"></i>
+                            <i class="fa-brands fa-node"></i>
+                            </h3>
+                        </a>
+                        <div class="mb-3">
+                            <p>u/n: <i>demo100@demo.com</i></p>
+                            <p>p/w: <i>Abcd1234!</i></p>
+                        </div>                        
+                        <a href="https://github.com/got0values/bookchat-client" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">A web app that helps users keep track of their reading, find new books to read, and connect with other readers.<br><br><b>Technologies used:</b><br><i>React, Fastify, Socket.IO, ChakraUI, Typescript</i></p>
+                    </div>
+                </div>  
+
                 <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://app.curatorkit.com.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
@@ -47,13 +67,36 @@
                             </h3>
                         </a>
                         <div class="mb-3">
-                            <p>u/n: <i>demo1@demo.com</i></p>
-                            <p>p/w: <i>abcd1234</i></p>
+                            <p>u/n: <i>demo@demo.com</i></p>
+                            <p>p/w: <i>Abcd1234!</i></p>
                         </div>                        
-                        <a href="https://curatorkit.com" target="_blank"><button>View Landing Page</button></a>
-                        <p class="appear show-on-scroll ln-ht">Made for libraries by an ex-librarian. Curatorkit is a set of tools made to provide a more efficient work flow. It public facing pages are developed with an accessibility-first design.<br><br><b>Technologies used:</b><br><i>React, Chakra UI, FastAPI</i></p>
+                        <a href="https://github.com/got0values/curatorkit-next" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">An extensive set of tools made for public libraries to provide a more efficient work flow. Its public facing pages are developed with an accessibility-first design.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
                     </div>
-                </div>   
+                </div>             
+
+                <div class="project col-lg">                
+                    <div class="project-img">            
+                        <a href="https://app.scribementor.com/" target="_blank"><img src="/images/scribementorscreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://app.scribementor.com/" target="_blank">
+                            <h3 class="from-right show-on-scroll">ScribeMentor 
+                            <i class="fa-brands fa-react"></i>
+                            </h3>
+                        </a>
+                        <div class="mb-3">
+                            <p>u/n: <i>demo100@demo.com</i></p>
+                            <p>p/w: <i>Abcd1234!</i></p>
+                        </div>                     
+                        <a href="https://github.com/got0values/scroth2" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">An AI study helper that extracts text from images and PDFs then allows the user to ask questions about the text.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
+                    </div>
+                </div>
+     
+            </div>
+            
+            <div class="projects-row">
 
                 <div class="project col-lg">                
                     <div class="project-img">            
@@ -89,12 +132,6 @@
                     </div>
                 </div>
 
-                
-
-                             
-            </div>
-            
-            <div class="projects-row">
                 <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://jvreads.com/" target="_blank"><img src="/images/jvreadsHome.png" class="from-left show-on-scroll"></a>
@@ -113,43 +150,6 @@
                         <p class="appear show-on-scroll ln-ht">Made for librarians, but can be useful for anyone that would like to find the readability level of text. Uses tesseract-OCR to read photos taken/uploaded.<br><br><b>Technologies used:</b><br><i>HTML, CSS, Bootstrap, Python, Flask, JavaScript</i></p>
                     </div>
                 </div>   
-
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="https://mybookshelfjv.netlify.app/" target="_blank"><img src="/images/mybookshelf.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://mybookshelfjv.netlify.app/" target="_blank">
-                            <h3 class="from-right show-on-scroll">My Bookshelf 
-                            <i class="fa-brands fa-react"></i> 
-                            <i class="fa-brands fa-node"></i>
-                            </h3>
-                        </a>
-                        <div class="mb-3">
-                            <p>u/n: <i>demo@demo.com</i></p>
-                            <p>p/w: <i>DemoPW1234!</i></p>
-                        </div>     
-                        <a href="https://github.com/got0values/mybookshelf" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">Many library patrons who are avid readers often mention that they don't remember reading particular titles or not. <i>My Bookshelf</i> solves that problem by allowing users to enter books they have read to their own digital bookshelf.
-                        <br><br><b>Technologies used:</b><br><i>HTML, CSS, JavaScript, React, Nodejs, MongoDB, Google Books API</i></p>
-                    </div>
-                </div>
-
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="https://books-db-search.netlify.app/" target="_blank"><img src="/images/books-db.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://books-db-search.netlify.app/" target="_blank">
-                            <h3 class="from-right show-on-scroll">Books DB 
-                            <i class="fa-brands fa-react"></i>
-                            </h3>
-                        </a>                      
-                        <a href="https://github.com/got0values/books-db" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">A React app made to quickly search for books by keyword by using the Open Library API. Especially useful for librarians when looking to find different versions of a book while entering metadata.<br><br><b>Technologies used:</b><br><i>HTML, CSS, JavaScript, React, Open Library API</i></p>
-                    </div>
-                </div>
-
                 
             </div>
 
@@ -212,7 +212,7 @@
                 <div id="me-des" class="align-items-center">                
                     <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to starting a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
                     </p>
-                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, JavaScript, NodeJS, React, Chakra UI, MaterialUI, Python, Flask, FastAPI, PHP, Magento, WordPress, C#, .NET, Liquid, Lua, Photoshop, Lightroom, GIMP</i></p>
+                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, Typescript, NodeJS, React, NextJS, C#, .NET, Blazor, MudBlazor, Fastify, ChakraUI, MaterialUI, Ruby on Rails, Python, Flask, FastAPI, PHP, Magento, WordPress, Liquid, Photoshop, Lightroom, GIMP</i></p>
                 </div>             
             </div>
         </section>
