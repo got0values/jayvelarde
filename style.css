@@ -100,7 +100,7 @@ button {
 button:hover {
     color: orange;
     border-color: orange;
-    transform: scale(1.1);
+    transform: scale(1.025);
 }
 
 .from-top {
@@ -179,7 +179,7 @@ button:hover {
     padding-top: 25px;
     padding-bottom: 25px;
     background: #212529;
-    border-radius: 25px;
+    border-radius: 10px;
     transition: transform .5s;
     /* align-content: center; */
 }
@@ -212,7 +212,7 @@ button:hover {
     object-fit: cover;
     object-position: 50% 50%;
     transition: transform .5s, box-shadow .5s;
-    border-radius: 20px;
+    border-radius: 5px;
     /* padding-left: 15px;
     padding-right: 15px; */
 }
@@ -236,7 +236,7 @@ button:hover {
 
 .project-des h3:hover {
     color: orange;
-    transform: scale(1.1);
+    transform: scale(1.025);
 }
 
 h1 {
@@ -383,7 +383,7 @@ p {
 
 #projects h2 {
     text-align: center;
-    margin: 15px;
+    margin-bottom: 2rem;
 }
 
 #projects h3 {

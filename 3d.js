@@ -12,7 +12,7 @@ jvwrap.addEventListener("mousemove", (e) => {
 
 jvwrap.addEventListener("mouseenter", (e) => {
     jvwrap.style.transition = "all 0.2s ease";
-    jvwrap.style.boxShadow = "1px 1px 5px grey";
+    // jvwrap.style.boxShadow = "1px 1px 5px grey";
     jvwrap.style.background = "linear-gradient(135deg, rgba(201,201,201,0) 30%, rgba(255,255,255,0.1) 48%, rgba(131,143,163,0) 70%)";
     jvh1.style.transform = "translateZ(200px) rotateZ(5deg)";
     webdev.style.transform = "translateZ(200px) translateY(20px) rotateZ(-2deg)";
