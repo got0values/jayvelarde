@@ -56,7 +56,7 @@
 
                 <div class="project col-lg">                
                     <div class="project-img">            
-                        <a href="https://app.curatorkit.com.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
+                        <a href="https://app.curatorkit.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="https://app.curatorkit.com/" target="_blank" class="d-flex gap-2">

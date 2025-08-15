@@ -425,10 +425,10 @@ p {
     height: 200px;
     width: 200px;
     background-color: white;
-    background-image: url("images/jvhead2.png");
+    background-image: url("images/jvhead3.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 0px 5px;
+    background-position: -18px 0px;
     border: 2px solid black;
     border-radius: 50%;
     margin-left: auto;
