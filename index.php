@@ -98,7 +98,7 @@
 
                 <div class="project col-lg">                
                     <div class="project-img">            
-                        <a href="https://garagesalesny.com/" target="_blank"><img src="/images/garagesalesnyHome.png" class="from-left show-on-scroll"></a>
+                        <a href="https://wordpress.org/plugins/terms-gate/" target="_blank"><img src="/images/termsgate.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
                         <a href="https://wordpress.org/plugins/terms-gate/" target="_blank">
@@ -155,9 +155,9 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des" class="align-items-center">                
-                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to starting a coding club for tweens and teens. Since then, I have been learning new programming languages and frameworks not just to teach, but as a hobby as well.
+                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to starting a coding club for tweens and teens. Now, as a web developer, I get to create and build amazing things with a focus on user experience and performance.
                     </p>
-                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, Typescript, NodeJS, React, NextJS, C#, .NET, Blazor, MudBlazor, Fastify, ChakraUI, MaterialUI, Ruby on Rails, Python, Flask, FastAPI, PHP, Magento, WordPress, Liquid, Photoshop, Lightroom, GIMP</i></p>
+                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, Typescript, NodeJS, React, NextJS, C#, ASP.NET, Blazor, MudBlazor, Fastify, ChakraUI, MaterialUI, Python, Flask, FastAPI, PHP, WordPress, Liquid, Linux, Git, Photoshop, GIMP</i></p>
                 </div>             
             </div>
         </section>
