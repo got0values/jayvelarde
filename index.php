@@ -150,14 +150,16 @@
 
         <section class="section" id="me">
             <h2 class="from-right show-on-scroll">About Me</h2>
-            <div id="me-row" class="d-flex align-items-center justify-content-center flex-wrap">
-                <div class="d-flex align-items-end w-50 py-5">            
+            <div class="d-flex flex-column align-items-center justify-content-center">
+                <div class="d-flex align-items-end py-5">            
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
-                <div id="me-des" class="align-items-center">                
-                    <p class="appear show-on-scroll ln-ht">I fell in love with coding while in my second year of being a librarian when I was assigned to starting a coding club for tweens and teens. Now, as a web developer, I get to create and build amazing things with a focus on user experience and performance.
+                <div id="me-des" class="container-md">                
+                    <p class="appear show-on-scroll ln-ht mb-3">I fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Now, as a web developer, I get to create and build amazing things with a focus on user experience and performance.
                     </p>
-                    <p class="appear show-on-scroll ln-ht">I am able to work with the following technologies:<br><br> <i>HTML, CSS, Typescript, NodeJS, React, NextJS, C#, ASP.NET, Blazor, MudBlazor, Fastify, ChakraUI, MaterialUI, Python, Flask, FastAPI, PHP, WordPress, Liquid, Linux, Git, Photoshop, GIMP</i></p>
+                    <p class="appear show-on-scroll ln-ht mb-3">I am able to work with the following technologies:</p>
+                    
+                    <p class="appear show-on-scroll ln-ht"><i>HTML, CSS, Typescript, NodeJS, React, NextJS, C#, ASP.NET, Blazor, MudBlazor, Fastify, ChakraUI, MaterialUI, Tailwind, Python, Flask, FastAPI, PHP, Wordpress, Wix, Linux, Git, Jira</i></p>
                 </div>             
             </div>
         </section>

@@ -417,10 +417,6 @@ p {
     margin: 15px;
 }
 
-#me-row {
-    width: 75%;
-}
-
 #mepic {
     height: 200px;
     width: 200px;
@@ -436,9 +432,7 @@ p {
 }
 
 #me-des {
-    flex-basis: 60%;
-    display: flex;
-    flex-direction: column;
+    max-width: 700px;
     margin-top: auto;
     margin-bottom: auto;
 }
