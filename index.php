@@ -36,7 +36,43 @@
 
             <div class="projects-row">
 
-            <div class="project col-lg">                
+                <div class="project col-lg">                
+                    <div class="project-img">            
+                        <a href="https://app.scribementor.com/" target="_blank"><img src="/images/scribementorscreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://app.scribementor.com/" target="_blank" class="d-flex gap-2">
+                            <h3 class="from-right show-on-scroll">ScribeMentor</h3>
+                            <img src="/images/nextjs.png" style="width: 1.5rem; height: 1.5rem;"></a>
+                        </a>
+                        <div class="mb-3">
+                            <p>u/n: <i>demo100@demo.com</i></p>
+                            <p>p/w: <i>Abcd1234!</i></p>
+                        </div>                     
+                        <a href="https://github.com/got0values/scroth2" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">An AI study helper that extracts text from images and PDFs then allows the user to ask questions about the text.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
+                    </div>
+                </div>
+
+                <div class="project col-lg">                
+                    <div class="project-img">            
+                        <a href="https://app.curatorkit.com.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
+                    </div>
+                    <div class="project-des">
+                        <a href="https://app.curatorkit.com/" target="_blank" class="d-flex gap-2">
+                            <h3 class="from-right show-on-scroll">CuratorKit</h3>
+                            <img src="/images/nextjs.png" style="width: 1.5rem; height: 1.5rem;"></a>
+                        </a>
+                        <div class="mb-3">
+                            <p>u/n: <i>demo@demo.com</i></p>
+                            <p>p/w: <i>Abcd1234!</i></p>
+                        </div>                        
+                        <a href="https://github.com/got0values/curatorkit-next" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">An extensive set of tools made for public libraries to provide a more efficient work flow. Its public facing pages are developed with an accessibility-first design.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
+                    </div>
+                </div>  
+                
+                <div class="project col-lg">                
                     <div class="project-img">            
                         <a href="https://app.bookchatnoir.com/" target="_blank"><img src="/images/bookchatnoirscreenshot.png" class="from-left show-on-scroll"></a>
                     </div>
@@ -55,44 +91,6 @@
                         <p class="appear show-on-scroll ln-ht">A web app that helps users keep track of their reading, find new books to read, and connect with other readers.<br><br><b>Technologies used:</b><br><i>React, Fastify, Socket.IO, ChakraUI, Typescript</i></p>
                     </div>
                 </div>  
-
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="https://app.curatorkit.com.com/" target="_blank"><img src="/images/curatorkitscreenshot.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://app.curatorkit.com/" target="_blank">
-                            <h3 class="from-right show-on-scroll">
-                            CuratorKit <i class="fa-brands fa-react"></i> <i class="fa-brands fa-python"></i>
-                            </h3>
-                        </a>
-                        <div class="mb-3">
-                            <p>u/n: <i>demo@demo.com</i></p>
-                            <p>p/w: <i>Abcd1234!</i></p>
-                        </div>                        
-                        <a href="https://github.com/got0values/curatorkit-next" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">An extensive set of tools made for public libraries to provide a more efficient work flow. Its public facing pages are developed with an accessibility-first design.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
-                    </div>
-                </div>             
-
-                <div class="project col-lg">                
-                    <div class="project-img">            
-                        <a href="https://app.scribementor.com/" target="_blank"><img src="/images/scribementorscreenshot.png" class="from-left show-on-scroll"></a>
-                    </div>
-                    <div class="project-des">
-                        <a href="https://app.scribementor.com/" target="_blank">
-                            <h3 class="from-right show-on-scroll">ScribeMentor 
-                            <i class="fa-brands fa-react"></i>
-                            </h3>
-                        </a>
-                        <div class="mb-3">
-                            <p>u/n: <i>demo100@demo.com</i></p>
-                            <p>p/w: <i>Abcd1234!</i></p>
-                        </div>                     
-                        <a href="https://github.com/got0values/scroth2" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">An AI study helper that extracts text from images and PDFs then allows the user to ask questions about the text.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Prisma, Typescript</i></p>
-                    </div>
-                </div>
      
             </div>
             
