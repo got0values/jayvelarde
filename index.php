@@ -113,16 +113,15 @@
 
                 <div class="project col-lg">                
                     <div class="project-img">            
-                        <a href="https://mammoth-giant.netlify.app/" target="_blank"><img src="/images/mammothgianthome.png" class="from-left show-on-scroll"></a>
+                        <a href="https://freeflashcardgenerator.com" target="_blank"><img src="/images/ffg.png" class="from-left show-on-scroll"></a>
                     </div>
                     <div class="project-des">
-                        <a href="https://mammoth-giant.netlify.app/" target="_blank">
-                            <h3 class="from-right show-on-scroll">Mammoth Giant 
-                            <i class="fa-brands fa-react"></i>
-                            </h3>
+                        <a href="https://freeflashcardgenerator.com" target="_blank" class="d-flex gap-2">
+                            <h3 class="from-right show-on-scroll">Free Flashcard Generator</h3>
+                            <img src="/images/nextjs.png" style="width: 1.5rem; height: 1.5rem;"></a>
                         </a>                    
-                        <a href="https://github.com/got0values/mammoth-giant" target="_blank"><button>View Code</button></a>
-                        <p class="appear show-on-scroll ln-ht">A demo eCommerce site made with React.<br><br><b>Technologies used:</b><br><i>HTML, CSS, React</i></p>
+                        <a href="https://github.com/got0values/freeflashcardgenerator" target="_blank"><button>View Code</button></a>
+                        <p class="appear show-on-scroll ln-ht">A demo eCommerce site made with React.<br><br><b>Technologies used:</b><br><i>NextJS, ChakraUI, Ollama</i></p>
                     </div>
                 </div>
 
