@@ -154,7 +154,7 @@
                     <div class="from-right show-on-scroll" id="mepic"></div>
                 </div>
                 <div id="me-des" class="container-md">                
-                    <p class="appear show-on-scroll ln-ht mb-3">I fell in love with coding while in my second year of being a librarian when I was assigned to start a coding club for tweens and teens. Now, as a web developer, I get to create and build amazing things with a focus on user experience and performance.
+                    <p class="appear show-on-scroll ln-ht mb-3">I’m a web developer with a strong focus on building fast, accessible, and user-friendly applications. With a background in librarianship, I bring an eye for organization and usability to every project, ensuring clean code and intuitive design that put the user experience first. My goal is to deliver performant, scalable solutions that make a meaningful impact for both users and businesses.
                     </p>
                     <p class="appear show-on-scroll ln-ht mb-3">I am able to work with the following technologies:</p>
                     
