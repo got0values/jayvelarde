@@ -27,9 +27,6 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="/fontawesome/css/fontawesome.css">
-        <link rel="stylesheet" href="/fontawesome/css/brands.css">
-        <link rel="stylesheet" href="/fontawesome/css/solid.css">
         <title>Jason Velarde</title>
     </head>
 
@@ -68,9 +65,9 @@
                         <h1 class="text-5xl lg:text-7xl font-bold text-gradient mb-4 font-space tracking-tight leading-tight">Jason Velarde</h1>
                         <div class="w-24 h-1 bg-gradient-to-r from-slate-900 to-slate-600 mx-auto mb-6"></div>
                     </div>
-                    <p class="text-xl lg:text-2xl text-slate-600 mb-4 font-light">Web Developer</p>
-                    <p class="text-lg mb-12 max-w-2xl mx-auto text-slate-500 leading-relaxed">I create clean, modern web applications with a focus on user experience and performance.</p>
-                    <a href="#projects" class="btn btn-modern text-white px-8 py-3 text-lg font-medium">View Projects</a>
+                    <p class="text-xl lg:text-2xl text-slate-600 mb-4 font-light">Full-Stack Developer</p>
+                    <p class="text-lg mb-12 max-w-2xl mx-auto text-slate-500 leading-relaxed">I deliver scalable web solutions that drive business growth through clean code, modern technologies, and user-centered design.</p>
+                    <a href="#projects" class="btn btn-modern text-white px-8 py-3 text-lg font-medium">View Portfolio</a>
                 </div>
             </div>
         </section>
@@ -79,8 +76,9 @@
         <section id="projects" class="py-20 bg-white">
             <div class="container mx-auto px-4">
                 <div class="text-center mb-16">
-                    <h2 class="text-4xl font-bold text-slate-900 mb-4 font-space">Featured Projects</h2>
+                    <h2 class="text-4xl font-bold text-slate-900 mb-4 font-space">Professional Portfolio</h2>
                     <div class="w-16 h-1 bg-slate-900 mx-auto"></div>
+                    <p class="text-lg text-slate-600 mt-4 max-w-3xl mx-auto">Enterprise-grade applications showcasing full-stack development expertise and business problem-solving</p>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
                     <!-- ScribeMentor -->
@@ -90,7 +88,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">ScribeMentor</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">An AI study helper that extracts text from images and PDFs then allows the user to ask questions about the text.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered education platform featuring OCR text extraction and intelligent Q&A functionality. Built with modern React architecture and scalable backend infrastructure.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.scribementor.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
@@ -111,7 +109,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">CuratorKit</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">An extensive set of tools made for public libraries to provide a more efficient workflow. Accessibility-first design.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Comprehensive library management system that streamlines operations and improves workflow efficiency. Implements WCAG accessibility standards.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.curatorkit.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
@@ -132,7 +130,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">BookChatNoir</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A web app that helps users keep track of their reading, find new books, and connect with other readers.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Social reading platform with real-time chat functionality and book recommendation algorithms. Features responsive design and optimized database queries for enhanced user engagement.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.bookchatnoir.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
@@ -154,7 +152,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">Terms Gate</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A WordPress plugin that lets users require visitors to agree to terms, privacy policy, or any custom agreement before viewing specific posts or pages.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">WordPress plugin deployed on the official repository. Provides user consent management with customizable legal agreement workflows.</p>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://wordpress.org/plugins/terms-gate/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
                                 <a href="https://github.com/got0values/terms-gate" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
@@ -172,7 +170,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">Free Flashcard Generator</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A web app that allows users to upload PDFs or input text to turn into flashcards using AI.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered educational tool that processes documents and generates intelligent flashcards. Integrates machine learning APIs with optimized file handling and user-friendly interface design.</p>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://freeflashcardgenerator.com" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
                                 <a href="https://github.com/got0values/freeflashcardgenerator" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
@@ -191,7 +189,7 @@
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">JV Reads</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Find the readability level of text using tesseract-OCR. Made for librarians, but useful for anyone. Upload photos for OCR.</p>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Text analysis application utilizing Tesseract OCR and readability algorithms. Features image processing capabilities.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://jvreads.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
@@ -224,12 +222,12 @@
                     </div>
                     <div class="flex-1 text-center lg:text-left">
                         <div class="mb-6">
-                            <h2 class="text-4xl font-bold text-slate-900 mb-3 font-space">About Me</h2>
+                            <h2 class="text-4xl font-bold text-slate-900 mb-3 font-space">Professional Summary</h2>
                             <div class="w-16 h-1 bg-slate-900 mx-auto lg:mx-0"></div>
                         </div>
-                        <p class="text-lg mb-6 text-slate-600 leading-relaxed max-w-2xl">I'm a web developer with a strong focus on building clean, accessible, and user-friendly applications. With a background in librarianship, I bring an eye for organization and usability to every project.</p>
+                        <p class="text-lg mb-6 text-slate-600 leading-relaxed max-w-2xl">Full-stack developer with proven experience delivering scalable web applications for diverse industries. Combines technical expertise with strong analytical skills to create efficient, user-centered solutions that meet business objectives.</p>
                         <div class="mb-6">
-                            <h3 class="text-lg font-semibold text-slate-800 mb-4 font-space">Technologies I work with:</h3>
+                            <h3 class="text-lg font-semibold text-slate-800 mb-4 font-space">Technical Expertise:</h3>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern">HTML</span>
                                 <span class="badge badge-modern">CSS</span>
@@ -254,9 +252,9 @@
         <section id="contact" class="bg-slate-50 py-20">
             <div class="container mx-auto px-4">
                 <div class="text-center mb-12">
-                    <h2 class="text-4xl font-bold text-slate-900 mb-4 font-space">Let's Connect</h2>
+                    <h2 class="text-4xl font-bold text-slate-900 mb-4 font-space">Ready to Contribute</h2>
                     <div class="w-16 h-1 bg-slate-900 mx-auto mb-6"></div>
-                    <p class="text-lg text-slate-600 max-w-2xl mx-auto">I'm always interested in new opportunities and collaborations.</p>
+                    <p class="text-lg text-slate-600 max-w-2xl mx-auto">Open to full-time opportunities where I can contribute to meaningful projects and drive technical innovation.</p>
                 </div>
                 <div class="flex justify-center">
                     <div class="bg-white p-8 rounded-2xl shadow-lg border border-slate-200 w-full max-w-md">
