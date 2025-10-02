@@ -89,7 +89,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">ScribeMentor</h3>
-                                <img src="/images/nextjs.png" class="w-5 h-5">
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">An AI study helper that extracts text from images and PDFs then allows the user to ask questions about the text.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
@@ -111,7 +110,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">CuratorKit</h3>
-                                <img src="/images/nextjs.png" class="w-5 h-5">
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">An extensive set of tools made for public libraries to provide a more efficient workflow. Accessibility-first design.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo@demo.com / Abcd1234!</div>
@@ -133,8 +131,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">BookChatNoir</h3>
-                                <i class="fa-brands fa-react text-slate-600"></i>
-                                <i class="fa-brands fa-node text-slate-600"></i>
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A web app that helps users keep track of their reading, find new books, and connect with other readers.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
@@ -157,7 +153,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">Terms Gate</h3>
-                                <i class="fa-brands fa-php text-slate-600"></i>
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A WordPress plugin that lets users require visitors to agree to terms, privacy policy, or any custom agreement before viewing specific posts or pages.</p>
                             <div class="flex gap-3 mb-4">
@@ -176,7 +171,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">Free Flashcard Generator</h3>
-                                <img src="/images/nextjs.png" class="w-5 h-5">
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">A web app that allows users to upload PDFs or input text to turn into flashcards using AI.</p>
                             <div class="flex gap-3 mb-4">
@@ -196,7 +190,6 @@
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">JV Reads</h3>
-                                <img style="filter: grayscale(1) opacity(0.6); height: 16px;" src="/images/flask.png">
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Find the readability level of text using tesseract-OCR. Made for librarians, but useful for anyone. Upload photos for OCR.</p>
                             <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
