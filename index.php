@@ -95,7 +95,7 @@
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.scribementor.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/scroth2" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/scroth2" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">NextJS</span>
@@ -116,7 +116,7 @@
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.curatorkit.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/curatorkit-next" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/curatorkit-next" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">NextJS</span>
@@ -137,7 +137,7 @@
                             <div class="text-sm text-slate-400 mb-4 font-mono">demo100@demo.com / Abcd1234!</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://app.bookchatnoir.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/bookchat-client" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/bookchat-client" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">React</span>
@@ -158,7 +158,7 @@
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">WordPress plugin deployed on the official repository. Provides user consent management with customizable legal agreement workflows.</p>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://wordpress.org/plugins/terms-gate/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/terms-gate" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/terms-gate" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">PHP</span>
@@ -176,7 +176,7 @@
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered educational tool that processes documents and generates intelligent flashcards. Integrates machine learning APIs with optimized file handling and user-friendly interface design.</p>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://freeflashcardgenerator.com" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/freeflashcardgenerator" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/freeflashcardgenerator" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">NextJS</span>
@@ -196,7 +196,7 @@
                             <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://jvreads.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/jvreads" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://github.com/got0values/jvreads" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">HTML</span>
