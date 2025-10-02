@@ -27,6 +27,9 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="/fontawesome/css/fontawesome.css">
+        <link rel="stylesheet" href="/fontawesome/css/brands.css">
+        <link rel="stylesheet" href="/fontawesome/css/solid.css">
         <title>Jason Velarde</title>
     </head>
 
@@ -275,6 +278,15 @@
                                 <div>
                                     <p class="font-medium text-slate-900">GitHub</p>
                                     <a href="https://github.com/got0values" target="_blank" class="text-slate-600 hover:text-slate-900 transition-colors">@got0values</a>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 bg-slate-100 rounded-full flex items-center justify-center">
+                                    <i class="fa fab fa-linkedin text-slate-600 text-lg"></i>
+                                </div>
+                                <div>
+                                    <p class="font-medium text-slate-900">LinkedIn</p>
+                                    <a href="https://www.linkedin.com/in/jason-velarde" target="_blank" class="text-slate-600 hover:text-slate-900 transition-colors">jason-velarde</a>
                                 </div>
                             </div>
                         </div>
