@@ -229,21 +229,22 @@
                             <div class="w-16 h-1 bg-slate-900 mx-auto lg:mx-0"></div>
                         </div>
                         <p class="text-lg mb-6 text-slate-600 leading-relaxed max-w-2xl">Full-stack developer with proven experience delivering scalable web applications for diverse industries. Combines technical expertise with strong analytical skills to create efficient, user-centered solutions that meet business objectives.</p>
-                        <div class="mb-6">
+                        <div class="mb-6 max-w-2xl">
                             <h3 class="text-lg font-semibold text-slate-800 mb-4 font-space">Technical Expertise:</h3>
                             <div class="flex flex-wrap gap-2">
-                                <span class="badge badge-modern">HTML</span>
-                                <span class="badge badge-modern">CSS</span>
-                                <span class="badge badge-modern">TypeScript</span>
                                 <span class="badge badge-modern">React</span>
                                 <span class="badge badge-modern">Next.js</span>
                                 <span class="badge badge-modern">Node.js</span>
+                                <span class="badge badge-modern">TypeScript</span>
+                                <span class="badge badge-modern">C#</span>
+                                <span class="badge badge-modern">ASP.NET</span>
+                                <span class="badge badge-modern">PHP</span>
                                 <span class="badge badge-modern">Python</span>
+                                <span class="badge badge-modern">HTML</span>
+                                <span class="badge badge-modern">CSS</span>
+                                <span class="badge badge-modern">Tailwind</span>
                                 <span class="badge badge-modern">Flask</span>
                                 <span class="badge badge-modern">FastAPI</span>
-                                <span class="badge badge-modern">PHP</span>
-                                <span class="badge badge-modern">C#</span>
-                                <span class="badge badge-modern">Tailwind</span>
                                 <span class="badge badge-modern">Prisma</span>
                                 <span class="badge badge-modern">Git</span>
                             </div>
