@@ -92,7 +92,6 @@
                                 <h3 class="text-xl font-semibold text-slate-900 font-space">Archeum AI</h3>
                             </div>
                             <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered discovery platform that helps libraries, museums, and archives make their digital collections searchable, accessible, and engaging through intelligent search and data mapping.</p>
-                            <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
                             <div class="flex gap-3 mb-4">
                                 <a href="https://usma.archeum.ai/chat" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
                                 <a href="https://github.com/got0values/archeum" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
@@ -100,7 +99,6 @@
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">NextJS</span>
                                 <span class="badge badge-modern text-xs">Tailwind CSS</span>
-                                <span class="badge badge-modern text-xs">TypeScript</span>
                                 <span class="badge badge-modern text-xs">Prisma</span>
                                 <span class="badge badge-modern text-xs">PostgreSQL</span>
                             </div>
