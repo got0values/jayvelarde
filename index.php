@@ -84,6 +84,28 @@
                     <p class="text-lg text-slate-600 mt-4 max-w-3xl mx-auto">Enterprise-grade applications showcasing full-stack development expertise and business problem-solving</p>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+                    <!-- Archeum AI -->
+                    <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
+                        <figure><img src="/images/archeumai.png" alt="Archeum AI Screenshot" class="h-48 w-full object-cover" /></figure>
+                        <div class="card-body p-6 flex flex-col">
+                            <div class="flex items-center gap-2 mb-3">
+                                <h3 class="text-xl font-semibold text-slate-900 font-space">Archeum AI</h3>
+                            </div>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered discovery platform that helps libraries, museums, and archives make their digital collections searchable, accessible, and engaging through intelligent search and data mapping.</p>
+                            <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
+                            <div class="flex gap-3 mb-4">
+                                <a href="https://usma.archeum.ai/chat" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
+                                <a href="https://github.com/got0values/archeum" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
+                            </div>
+                            <div class="flex flex-wrap gap-2">
+                                <span class="badge badge-modern text-xs">NextJS</span>
+                                <span class="badge badge-modern text-xs">Tailwind CSS</span>
+                                <span class="badge badge-modern text-xs">TypeScript</span>
+                                <span class="badge badge-modern text-xs">Prisma</span>
+                                <span class="badge badge-modern text-xs">PostgreSQL</span>
+                            </div>
+                        </div>
+                    </div>
                     <!-- ScribeMentor -->
                     <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
                         <figure><img src="/images/scribementorscreenshot.png" alt="ScribeMentor Screenshot" class="h-48 w-full object-cover" /></figure>
@@ -105,24 +127,22 @@
                             </div>
                         </div>
                     </div>
-                    <!-- CuratorKit -->
+                    <!-- Free Flashcard Generator -->
                     <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
-                        <figure><img src="/images/curatorkitscreenshot.png" alt="CuratorKit Screenshot" class="h-48 w-full object-cover" /></figure>
+                        <figure><img src="/images/ffg.png" alt="Free Flashcard Generator Screenshot" class="h-48 w-full object-cover" /></figure>
                         <div class="card-body p-6 flex flex-col">
                             <div class="flex items-center gap-2 mb-3">
-                                <h3 class="text-xl font-semibold text-slate-900 font-space">CuratorKit</h3>
+                                <h3 class="text-xl font-semibold text-slate-900 font-space">Free Flashcard Generator</h3>
                             </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Comprehensive library management system that streamlines operations and improves workflow efficiency. Implements WCAG accessibility standards.</p>
-                            <div class="text-sm text-slate-400 mb-4 font-mono">demo@demo.com / Abcd1234!</div>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered educational tool that processes documents and generates intelligent flashcards. Integrates machine learning APIs with optimized file handling and user-friendly interface design.</p>
                             <div class="flex gap-3 mb-4">
-                                <a href="https://app.curatorkit.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/curatorkit-next" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
+                                <a href="https://freeflashcardgenerator.com" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
+                                <a href="https://github.com/got0values/freeflashcardgenerator" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
                             </div>
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">NextJS</span>
                                 <span class="badge badge-modern text-xs">ChakraUI</span>
-                                <span class="badge badge-modern text-xs">Prisma</span>
-                                <span class="badge badge-modern text-xs">TypeScript</span>
+                                <span class="badge badge-modern text-xs">Ollama</span>
                             </div>
                         </div>
                     </div>
@@ -148,6 +168,27 @@
                             </div>
                         </div>
                     </div>
+                    <!-- CuratorKit -->
+                    <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
+                        <figure><img src="/images/curatorkitscreenshot.png" alt="CuratorKit Screenshot" class="h-48 w-full object-cover" /></figure>
+                        <div class="card-body p-6 flex flex-col">
+                            <div class="flex items-center gap-2 mb-3">
+                                <h3 class="text-xl font-semibold text-slate-900 font-space">CuratorKit</h3>
+                            </div>
+                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Comprehensive library management system that streamlines operations and improves workflow efficiency. Implements WCAG accessibility standards.</p>
+                            <div class="text-sm text-slate-400 mb-4 font-mono">demo@demo.com / Abcd1234!</div>
+                            <div class="flex gap-3 mb-4">
+                                <a href="https://app.curatorkit.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
+                                <a href="https://github.com/got0values/curatorkit-next" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
+                            </div>
+                            <div class="flex flex-wrap gap-2">
+                                <span class="badge badge-modern text-xs">NextJS</span>
+                                <span class="badge badge-modern text-xs">ChakraUI</span>
+                                <span class="badge badge-modern text-xs">Prisma</span>
+                                <span class="badge badge-modern text-xs">TypeScript</span>
+                            </div>
+                        </div>
+                    </div>
                     <!-- Terms Gate -->
                     <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
                         <figure><img src="/images/termsgate.png" alt="Terms Gate Screenshot" class="h-48 w-full object-cover" /></figure>
@@ -163,47 +204,6 @@
                             <div class="flex flex-wrap gap-2">
                                 <span class="badge badge-modern text-xs">PHP</span>
                                 <span class="badge badge-modern text-xs">WordPress</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Free Flashcard Generator -->
-                    <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
-                        <figure><img src="/images/ffg.png" alt="Free Flashcard Generator Screenshot" class="h-48 w-full object-cover" /></figure>
-                        <div class="card-body p-6 flex flex-col">
-                            <div class="flex items-center gap-2 mb-3">
-                                <h3 class="text-xl font-semibold text-slate-900 font-space">Free Flashcard Generator</h3>
-                            </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">AI-powered educational tool that processes documents and generates intelligent flashcards. Integrates machine learning APIs with optimized file handling and user-friendly interface design.</p>
-                            <div class="flex gap-3 mb-4">
-                                <a href="https://freeflashcardgenerator.com" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/freeflashcardgenerator" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
-                            </div>
-                            <div class="flex flex-wrap gap-2">
-                                <span class="badge badge-modern text-xs">NextJS</span>
-                                <span class="badge badge-modern text-xs">ChakraUI</span>
-                                <span class="badge badge-modern text-xs">Ollama</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- JV Reads -->
-                    <div class="card bg-white shadow-lg border border-slate-200 h-full card-hover rounded-2xl overflow-hidden">
-                        <figure><img src="/images/jvreadsHome.png" alt="JV Reads Screenshot" class="h-48 w-full object-cover" /></figure>
-                        <div class="card-body p-6 flex flex-col">
-                            <div class="flex items-center gap-2 mb-3">
-                                <h3 class="text-xl font-semibold text-slate-900 font-space">JV Reads</h3>
-                            </div>
-                            <p class="flex-grow text-slate-600 mb-4 leading-relaxed">Text analysis application utilizing Tesseract OCR and readability algorithms. Features image processing capabilities.</p>
-                            <div class="text-sm text-slate-400 mb-4 font-mono">DEMO / DEMOPW</div>
-                            <div class="flex gap-3 mb-4">
-                                <a href="https://jvreads.com/" class="btn btn-modern text-white flex-1 text-sm" target="_blank">Live Demo</a>
-                                <a href="https://github.com/got0values/jvreads" class="btn btn-outline border-slate-300 text-slate-700 hover:bg-slate-50 hover:text-black flex-1 text-sm" target="_blank">Code</a>
-                            </div>
-                            <div class="flex flex-wrap gap-2">
-                                <span class="badge badge-modern text-xs">HTML</span>
-                                <span class="badge badge-modern text-xs">CSS</span>
-                                <span class="badge badge-modern text-xs">Python</span>
-                                <span class="badge badge-modern text-xs">Flask</span>
-                                <span class="badge badge-modern text-xs">JavaScript</span>
                             </div>
                         </div>
                     </div>
